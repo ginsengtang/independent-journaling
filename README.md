@@ -17,3 +17,4 @@
 
 
 ## Reasoning:
+- centralized, social media giants have the authority to censor your speech and cut off their services from you
