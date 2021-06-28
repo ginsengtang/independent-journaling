@@ -27,9 +27,9 @@
 
 ## Why use GitHub?
 
-- To Be Defended
+- Github is familiar
 
 ## How is this different from https://zapier.com/blog/best-journaling-apps/?
 
 - Open Source, Free
-- No Central Host
+- Self Hosted
