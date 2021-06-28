@@ -2,6 +2,7 @@
 
 ## Requirements:
 
+- a few clicks to set up
 - self-hosted, choose your own cloud provider
 - redundant, application backs up key data at a location you specify
 - multimedia, should be able to upload video or mp3 or markup or images
