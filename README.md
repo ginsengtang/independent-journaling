@@ -2,8 +2,9 @@
 
 ## Requirements:
 
+- a few clicks to set up
 - self-hosted, choose your own cloud provider
-- redundant, application backs data up somewhere
+- redundant, application backs up key data at a location you specify
 - multimedia, should be able to upload video or mp3 or markup or images
 - searchable, should be able to search through journal entries
 - private public distinction, you have the authority to make posts public or private
